@@ -1,6 +1,6 @@
 {
   "scripts":{
-    "starts""node app.js"
+    "starts":"node app.js"
   }
   ,
   "dependencies": {
